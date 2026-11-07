@@ -3,16 +3,20 @@ CM5008016,Raspberry Pi Compute Module 5 (CM5),1,97,97,BlackPi,https://blackpi.sh
 28146,STM32WB55REV6 (RF Transceiver IC),1,46.99,46.99,Waveshare,https://www.waveshare.com/5inch-dsi-lcd-c.htm
 STM32WB55REV6-ND,STMicroelectronics Dual-Core ARM Cortex-M4/M0+ Bluetooth Coprocessor IC,1,7.29,7.29,DigiKey,https://www.digikey.com/en/products/detail/stmicroelectronics/STM32WB55REV6/10326858
 C80200,TI BQ25895RTWR,1,2.14,2.14,LCSC,https://www.lcsc.com/product-detail/C80200.html
+,AO4407A MOSFET,5,0.3845,1.92,LCSC,https://www.lcsc.com/product-detail/MOSFET_AOS_AO4407A_AO4407A_C16072.html
 C2071251,TI TPS6281020QWRWYRQ1,1,3.53,3.53,LCSC,https://www.lcsc.com/product-detail/C2071251.html
-EVQ-VVD00203B,Panasonic Low-Profile Horizontal SMT Encoder (Corner Wheel),1,1.82,1.82,DigiKey,https://www.digikey.com/en/products/detail/panasonic-industry/EVQ-VVD00203B/3873473?gclsrc=aw.ds&gad_source=1&gad_campaignid=20232005509&gclid=CjwKCAiAtbvXBhB_EiwAjwv9Jk5ficfG8h1BDMCQ2uWPNpbGLsO0nz5Y_9k7GOJxLCqcK39_As0urBoCaiEQAvD_BwE
-DF40C-100DS-0.4V(51),Hirose 100-Pin 0.4mm Pitch High-Density Receptacle Connectors (Main SoM Interface),3,2.39,2.39,DigiKey,https://www.digikey.com/en/products/detail/hirose-electric-co-ltd/DF40C-100DS-0-4V-51/1969476
+EVQ-VVD00203B,Panasonic Low-Profile Horizontal SMT Encoder,1,1.82,1.82,DigiKey,https://www.digikey.com/en/products/detail/panasonic-industry/EVQ-VVD00203B/3873473?gclsrc=aw.ds&gad_source=1&gad_campaignid=20232005509&gclid=CjwKCAiAtbvXBhB_EiwAjwv9Jk5ficfG8h1BDMCQ2uWPNpbGLsO0nz5Y_9k7GOJxLCqcK39_As0urBoCaiEQAvD_BwE
+DF40C-100DS-0.4V(51),Hirose 100-Pin 0.4mm Pitch High-Density Receptacle Connectors,3,2.39,2.39,DigiKey,https://www.digikey.com/en/products/detail/hirose-electric-co-ltd/DF40C-100DS-0-4V-51/1969476
 ST25R3916-AQWT,STMicroelectronics High-Performance 13.56MHz RFID/NFC Front-End Transceiver IC,1,7.28,7.28,LCSC,https://www.lcsc.com/product-detail/C2908147.html
-TSAL6200,Vishay High-Power 940nm Infrared Emitting Diode (IR TX Transmit Array),3,0.5,1.5,DigiKey,https://www.digikey.com/en/products/detail/vishay-semiconductor-opto-division/TSAL6200/1681339
-TSOP38238,Vishay Demodulated 38kHz Infrared Receiver Module (IR RX Learning Array),1,0.84,0.84,DigiKey,https://www.digikey.com/en/products/detail/vishay-semiconductor-opto-division/TSOP38238/1681362
-MCP6022-I/ST,Microchip Dual Low-Noise Operational Amplifier (125kHz Low-Frequency RFID Subsystem),1,1.77,1.77,DigiKey,https://www.digikey.com/en/products/detail/microchip-technology/MCP6022-I-ST/417830
+TSAL6200,Vishay High-Power 940nm Infrared Emitting Diode,3,0.5,1.5,DigiKey,https://www.digikey.com/en/products/detail/vishay-semiconductor-opto-division/TSAL6200/1681339
+TSOP38238,Vishay Demodulated 38kHz Infrared Receiver Module,1,0.84,0.84,DigiKey,https://www.digikey.com/en/products/detail/vishay-semiconductor-opto-division/TSOP38238/1681362
+CMT-8503-85B-SMT-TR,SMD Buzzer for Deauth Warning,,2.28,2.28,DigiKey,https://www.digikey.com/en/products/detail/same-sky-formerly-cui-devices/CMT-8503-85B-SMT-TR/10326169
+MCP6022-I/ST,Microchip Dual Low-Noise Operational Amplifier,1,1.77,1.77,DigiKey,https://www.digikey.com/en/products/detail/microchip-technology/MCP6022-I-ST/417830
 C488155,onsemi FUSB302B01MPX USB Type-C Programmable CC Logic & Power Delivery Controller IC,1,2.24,2.24,LCSC,https://www.lcsc.com/product-detail/C488155.html?lcsc_vid=RFZaV1NWQlkIUVEAR1hdAlZVFldcVQAFFAALAlNQQVUxVlNRT1RaU1RWR1dfVjtW
-PCM12SMTR,C&K Components Right-Angle Low-Profile SPDT Mechanical Slide Switch (Battery Isolation),1,1.28,1.28,DigiKey,https://www.digikey.com/en/products/detail/c-k/PCM12SMTR/1640112
-KSC421G70SHLFS,C&K Components High-Safety Tactile Side-Mounted Edge Buttons (Navigation Array),3,0.68,0.68,DigiKey,https://www.digikey.com/en/products/detail/c-k/KSC421G-70SH-LFS/1003843
-CLE-110-01-G-DV,Samtec 20-Pin 0.80mm Low-Profile Mezzanine Pass-Through Socket (Universal Dock Interface),1,5.03,5.03,DigiKey,https://www.digikey.com/en/products/detail/samtec-inc/CLE-110-01-G-DV/1099930
-,5000mAh 3.7V Flat Lithium-Polymer Pouch Battery (Max 6mm Profile Width Setup),1,11.74,11.74,DigiKey,https://www.digikey.com/en/products/detail/jauch-quartz/LP503562JU-PCM-2-WIRES-50MM/9560989
-TOTAL COST,,,,193.52,,
+PCM12SMTR,C&K Components Right-Angle Low-Profile SPDT Mechanical Slide Switch,1,1.28,1.28,DigiKey,https://www.digikey.com/en/products/detail/c-k/PCM12SMTR/1640112
+KSC421G70SHLFS,C&K Components High-Safety Tactile Side-Mounted Edge Buttons,3,0.68,0.68,DigiKey,https://www.digikey.com/en/products/detail/c-k/KSC421G-70SH-LFS/1003843
+CLE-110-01-G-DV,Samtec 20-Pin 0.80mm Low-Profile Mezzanine Pass-Through Socket,1,5.03,5.03,DigiKey,https://www.digikey.com/en/products/detail/samtec-inc/CLE-110-01-G-DV/1099930
+B2B-PH-K-S,B2B-PH-K-S Battery Connector,1,0.12,0.12,DigiKey,https://www.digikey.com/en/products/detail/jst-sales-america-inc/B2B-PH-K-S/926611
+261,261 Battery Cable Connector,1,0.75,0.75,DigiKey,https://www.digikey.com/en/products/detail/adafruit-industries-llc/261/5353586
+,5000mAh 3.7V Flat Lithium-Polymer Pouch Battery,1,11.74,11.74,DigiKey,https://www.digikey.com/en/products/detail/jauch-quartz/LP503562JU-PCM-2-WIRES-50MM/9560989
+TOTAL COST,,,,198.59,,
