@@ -26,6 +26,8 @@ the expansion blades live under this same repository:
 ### 1. The Network Auditor Blade (Pineapple Mode)
 
 an independent board featuring an onboard microchip usb hub controller that splits the dock's usb line into (hopefully) two high-power MediaTek dual-band wireless transceivers. one radio acts as a rogue honeypot access point running hostapd while the second radio handles continuous, line-rate promiscuous sniffing and packet injection across 2.4 ghz and 5 ghz networks.
+- **Active Wi-Fi Deauth Intrusion Detection:** works with the network blade to monitor the airwaves for rogue `0x0C` management frames. if it catches an attack, it bypasses the main cpu and triggers a hardware-level panic mode—flashing a warning modal on the 1024x600 screen and firing an onboard smt magnetic buzzer loop so you can physically track down the source. It uses the buzzer that i will have on the main board. thought it's worth putting it under here instead of the main board.
+
 
 ### 2. The Sub-GHz Signal Lab Blade
 
