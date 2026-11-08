@@ -10,7 +10,7 @@ DF40C-100DS-0.4V(51),Hirose 100-Pin 0.4mm Pitch High-Density Receptacle Connecto
 ST25R3916-AQWT,STMicroelectronics High-Performance 13.56MHz RFID/NFC Front-End Transceiver IC,1,7.28,7.28,LCSC,https://www.lcsc.com/product-detail/C2908147.html
 TSAL6200,Vishay High-Power 940nm Infrared Emitting Diode,3,0.5,1.5,DigiKey,https://www.digikey.com/en/products/detail/vishay-semiconductor-opto-division/TSAL6200/1681339
 TSOP38238,Vishay Demodulated 38kHz Infrared Receiver Module,1,0.84,0.84,DigiKey,https://www.digikey.com/en/products/detail/vishay-semiconductor-opto-division/TSOP38238/1681362
-CMT-8503-85B-SMT-TR,SMD Buzzer for Deauth Warning,,2.28,2.28,DigiKey,https://www.digikey.com/en/products/detail/same-sky-formerly-cui-devices/CMT-8503-85B-SMT-TR/10326169
+CMT-8503-85B-SMT-TR,SMD Buzzer for Deauth Warning,1,2.28,2.28,DigiKey,https://www.digikey.com/en/products/detail/same-sky-formerly-cui-devices/CMT-8503-85B-SMT-TR/10326169
 MCP6022-I/ST,Microchip Dual Low-Noise Operational Amplifier,1,1.77,1.77,DigiKey,https://www.digikey.com/en/products/detail/microchip-technology/MCP6022-I-ST/417830
 C488155,onsemi FUSB302B01MPX USB Type-C Programmable CC Logic & Power Delivery Controller IC,1,2.24,2.24,LCSC,https://www.lcsc.com/product-detail/C488155.html?lcsc_vid=RFZaV1NWQlkIUVEAR1hdAlZVFldcVQAFFAALAlNQQVUxVlNRT1RaU1RWR1dfVjtW
 PCM12SMTR,C&K Components Right-Angle Low-Profile SPDT Mechanical Slide Switch,1,1.28,1.28,DigiKey,https://www.digikey.com/en/products/detail/c-k/PCM12SMTR/1640112
